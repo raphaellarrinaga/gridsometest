@@ -1,1 +1,1 @@
-# gridsometest
+# Default starter for Gridsome
